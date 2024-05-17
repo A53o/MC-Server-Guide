@@ -39,6 +39,7 @@ Then press Ctrl + S to save the file
 To run the server you need to install java 17 (not minecraft java the java runtime)
 
 1 goto this [page](https://www.oracle.com/java/technologies/downloads/#jdk17-windows)
+
 2 click on the link for the x64 installer to download it
 
 ![image](https://github.com/A53o/MC-Server-Guide/assets/146792539/e6040caf-b8be-4e2d-b1b7-d615fecc09b1)
