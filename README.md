@@ -1,3 +1,5 @@
+In this guide I will show you how to create an install a Minecraft server without port forwarding.
+
 # Lets Start
 1. First goto [Papermc.io/downloads/all](https://papermc.io/downloads/all) click on the version of Minecraft you Want in the side bar e.g.
 
