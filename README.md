@@ -102,7 +102,7 @@ First stop the server by typing ```stop``` in the console then hit enter
 
 3 Then double click the run.bat file again, then once the server is fully runing stop it
 
-4 Now go back to the plugins folder then there should be a folder called contect (if there isn't then the plugin didin't enable) in that folder open the config.yml file with notepad
+4 Now go back to the plugins folder then there should be a folder called connect (if there isn't then the plugin didin't enable) in that folder open the config.yml file with notepad
 
 5 where it says ```endpoint: endpoint-name``` you can call it what ever you want I'm doing ```mcserverguide``` then press Ctrl + S to save
 
