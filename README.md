@@ -92,7 +92,7 @@ Now Your server is runing! but we are not done yet
 
 # Opening The Server To The internet
 
-Firt stop the server by typing ```stop``` in the console then hit enter
+First stop the server by typing ```stop``` in the console then hit enter
 
 ![image](https://github.com/A53o/MC-Server-Guide/assets/146792539/f1ed2737-881e-4189-9c3c-f25557b26dbd)
 
