@@ -1,4 +1,16 @@
 title: MC Server Guide
-description: In this guide I will show you how to setup and install a Minecraft server on windows without port forwarding.
-show_downloads: false
-theme: jekyll-theme-slate
+author:
+  name: A53o
+  email: contact.sirpancakes@gmail.com
+description: >
+  In this guide I will show you how to setup and install a Minecraft server on windows without port forwarding.
+
+theme: minima
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+header_pages:
+  - README.md
+minima:
+  skin: dark
