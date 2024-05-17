@@ -111,7 +111,7 @@ First stop the server by typing ```stop``` in the console then hit enter
 6 finally you can double click the run.bat file and connect to your server at ```endpoint-name.play.minekube.net``` but replace endpoint-name with the name of the endpoint you set in step 5
 
 # Turning on The Whitelist
-the whitelist stops random people joining the server and to enable it join the server and type in chat ```/whitelist on``` and hit enter. now add your self to the whitelist and anyother people you want playing by typing ```/whitelist add your mc-username``` and hit enter but replace the mc-username with the user name of your player or any other player.
+the whitelist stops random people joining the server and to enable it join the server and type in chat ```/whitelist on``` and hit enter. now add your self to the whitelist and anyother people you want playing by typing ```/whitelist add  mc-username``` and hit enter but replace the mc-username with the user name of your player or any other player.
 
 
 **Your Done Great Job I Hope This Guide Helped**
